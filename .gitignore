@@ -3,5 +3,6 @@
 obj/
 _UpgradeReport_Files/
 *.user
+*.sdf
 *.old
 /UpgradeLog.XML
